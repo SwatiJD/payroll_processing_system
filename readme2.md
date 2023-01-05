@@ -1,6 +1,7 @@
 # Payroll Processing System in Java
 
-`PPC is a Payroll solution provider company who manages the payroll of the various companies from small scale to large scale company.`
+`PPC is a Payroll solution provider company who manages the payroll of the various companies from small scale to large scale company.PPC handles  events and manages the payroll accordingly. Each even has specific fixed format
+and client has to strictly follow it while sending data.`
 
 `PPC accepts the employees data from the client in either plain text format (.txt) or csv (.csv) format to manage the employee life cycle starting from date of onboarding to date of exit.`
 
@@ -12,21 +13,19 @@
 ---
 
 ## IDE 
->IntelliJ Idea || STS || Eclipse
+> STS || 
 
 ---
 
 ## Install
 - [x]  [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
-- [x] [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
 - [x] [STS ](https://spring.io/tools)
-- [x] [Eclipse ](https://www.eclipse.org/downloads/)
 
 ---
 
 ## Framework
 
-For this Payroll Processing System, we are using Collection framework of Java.
+For this Application, we are using Collection framework of Java.
 
 ---
 
@@ -34,7 +33,7 @@ For this Payroll Processing System, we are using Collection framework of Java.
 
 In this project we have used following dependencies :-
 
-- JUnit
+- JUnit for unit testing
 
 ---
 
